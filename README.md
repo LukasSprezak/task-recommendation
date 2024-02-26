@@ -7,7 +7,7 @@ API:
 `recommendations:`: 
    
 - /api/movies/recommended_filter/three-random-movies
-- /api/movies/all-movies-letter-w-and-even-num-char
+- /api/movies/recommended_filter/all-movies-letter-w-and-even-num-char
 - /api/movies/recommended_filter/title-more-than-one-word
 
 
